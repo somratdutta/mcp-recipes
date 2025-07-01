@@ -1,0 +1,11 @@
+id,product_name,category,price,stock_quantity
+1,Wireless Headphones,Electronics,79.99,150
+2,Office Chair,Furniture,249.99,45
+3,Coffee Maker,Appliances,89.99,72
+4,Notebook Set,Stationery,12.99,200
+5,Desk Lamp,Electronics,34.99,88
+6,Water Bottle,Sports,19.99,165
+7,Bluetooth Speaker,Electronics,45.99,93
+8,Plant Pot,Home & Garden,15.99,120
+9,USB Cable,Electronics,9.99,300
+10,Yoga Mat,Sports,29.99,67 
